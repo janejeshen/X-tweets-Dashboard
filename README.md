@@ -1,6 +1,6 @@
 # X Tweets Dashboard
 
-This is a Power BI dashboard project that analyzes Twitter (X) performance data. The dashboard visualizes tweet activity, engagement rates, impressions, and URL clicks — helping understand social media performance by day, weekday, and top tweets.
+This is a Power BI dashboard project that analyzes Twitter (X) performance data. The dashboard visualizes tweet activity, engagement rates, impressions, and URL clicks helping understand social media performance by day, weekday, and top tweets.
 
 ## Features
 
